@@ -8,7 +8,7 @@ pkg up -y
 pkg install git -y
 pkg install python -y
 pip3 install lolcat
-git clone https://github.com/itzakx21/encrypt
+git clone https://github.com/ITSN0B1T4/encrypt
 cd encrypt
 python main.py
 ````
