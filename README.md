@@ -4,7 +4,7 @@ MARSHAL PY ENCRYPTOR PYTHON3
 <h3 align="left">INSTALL :</h3>
 
 ````bash
-pkg up -y
+pkg update && upgrade -y
 pkg install git -y
 pkg install python -y
 git clone https://github.com/ITSN0B1T4/encrypt
@@ -32,7 +32,9 @@ Example : `python encrypt.py -i /sdcard/test.py -o output.py`
 
 <p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/example2.gif"></p>
 
-#### Successfully Encryption View :
+#### Demo:
+
+#### Successfully Encryption View:
 
 <p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/demo3.png"></p>
 
