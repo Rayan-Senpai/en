@@ -10,8 +10,13 @@ pkg install python -y
 pip3 install lolcat
 git clone https://github.com/ITSN0B1T4/encrypt
 cd encrypt
-python main.py
+python encrypt.py
 ````
+## DEMO
+
+<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/demo1.png"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/demo2.png"></p>
 
 
 <h3 align="left">Connect with me:</h3>
