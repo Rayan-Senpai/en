@@ -7,14 +7,38 @@ MARSHAL PY ENCRYPTOR PYTHON3
 pkg up -y
 pkg install git -y
 pkg install python -y
-pip3 install lolcat
 git clone https://github.com/ITSN0B1T4/encrypt
-cd encrypt
-python encrypt.py
 ````
+
+## How to use 
+
+#### Help :
+
+````bash
+python encrypt.py -h => Show Help
+````
+
+#### Encrypt file : `python encrypt.py -i [input_file_path] -o [file_output]`
+
+Example : `python encrypt.py -i /sdcard/test.py -o output.py`
+
 ## DEMO
 
+#### Example-1:
+
+<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/example1.gif"></p>
+
+#### Example-2:
+
+<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/example2.gif"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/demo3.png"></p>
+
+#### Successfully Encryption View :
+
 <p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/demo1.png"></p>
+
+#### Testing encrypted file:
 
 <p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/demo2.png"></p>
 
