@@ -3,7 +3,7 @@ MARSHAL PY ENCRYPTOR PYTHON3
 
 <h3 align="left">INSTALL :</h3>
 
-````
+````bash
 pkg up -y
 pkg install git -y
 pkg install python -y
