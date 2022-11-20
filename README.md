@@ -26,17 +26,17 @@ Example : `python encrypt.py -i /sdcard/test.py -o output.py`
 
 #### Example-1:
 
-<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/example1.gif"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/ITSN0B1T4/main/img/enc_demo1.gif"></p>
 
 #### Example-2:
 
-<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/example2.gif"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/ITSN0B1T4/main/img/enc_demo2.gif"></p>
 
 #### Demo:
 
 #### Successfully Encryption View:
 
-<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/demo3.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/ITSN0B1T4/main/img/enc_demo3.png"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/ITSN0B1T4/encrypt/main/.assets/demo1.png"></p>
 
